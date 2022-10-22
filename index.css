@@ -1,4 +1,13 @@
 /* Custom properties/variables  */
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-SSST06HLK4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-SSST06HLK4');
+</script>
 :root {
     --main-white: #f0f0f0;
     --main-red: #be3144;
